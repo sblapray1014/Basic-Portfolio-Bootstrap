@@ -44,3 +44,16 @@ font-weight: bold;
 font-family: 'Exo 2', sans-serif;
 color: #ffffff;
 }
+
+.navbar2 {
+margin-top: 155px;
+background-color: #777777;
+color: #ffffff;
+text-align: center;
+width: 100%;
+font-size: 25px;
+font-weight: bold;
+height: 35px;
+padding: 5px 5px 5px 5px;
+font-family: 'Exo 2', sans-serif;
+}
