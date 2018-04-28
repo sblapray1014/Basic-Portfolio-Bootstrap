@@ -25,7 +25,6 @@ color: #4aaaa5;
 }
 
 p {
-font-size: 15px;
 font-family: 'Exo 2', sans-serif;
 font-weight: light;
 line-height: 35px;
@@ -39,7 +38,7 @@ font-family: 'Exo 2', sans-serif;
 }
 
 h5 {
-font-size: 75px;
+font-size: 55px;
 font-weight: bold;
 font-family: 'Exo 2', sans-serif;
 color: #ffffff;
@@ -56,4 +55,8 @@ font-weight: bold;
 height: 35px;
 padding: 5px 5px 5px 5px;
 font-family: 'Exo 2', sans-serif;
+}
+
+.card-text {
+color: #4aaaa5;
 }
